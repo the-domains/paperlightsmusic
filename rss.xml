@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PAPERLIGHTSMUSIC]]></title>
         <description><![CDATA[PAPERLIGHTSMUSIC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paperlightsmusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 02:10:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 02:22:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paperlightsmusic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Conversation with Paper Lights]]></title>
+            <description><![CDATA[<article><h1>A Conversation with Paper Lights</h1><p>I recently got to talk with Dan Snyder, a founding member of the indie post-rock group Paper Lights. We talked about their new album We Are Arrows, the off-stage dynamics of being in a band, and ways people - artists and commissioners - can support good music. Read on...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4632a178-5efa-4d07-8bdf-4d2aad4d7345.jpg"></article>]]></description>
+            <link>https://thegrid.ai/paperlightsmusic/a-conversation-with-paper-lights/index.html</link>
+            <guid isPermaLink="false">d368fcaf-0994-4dc3-86e5-3d38262bac50</guid>
+            <pubDate>Wed, 18 Nov 2015 02:22:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THE DIGITAL FASHION PLATFORM]]></title>
             <description><![CDATA[<article><h1>THE DIGITAL FASHION PLATFORM</h1><p>BEHIND THE MINDS OF PAPER LIGHTS</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e85af0d-7a53-45f4-a8b8-d88cda3e2d10.jpg"></article>]]></description>
-            <link>undefinedthe-digital-fashion-platform/index.html</link>
+            <link>https://thegrid.ai/paperlightsmusic/the-digital-fashion-platform/index.html</link>
             <guid isPermaLink="false">814aa33b-7e88-4233-8759-37a5cec5a5d0</guid>
             <pubDate>Wed, 18 Nov 2015 02:10:02 GMT</pubDate>
         </item>

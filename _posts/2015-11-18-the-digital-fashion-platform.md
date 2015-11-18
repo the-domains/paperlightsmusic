@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.thedigitalfashionplatform.com/a-snapshot-into-the-minds-behind-paper-lights/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - fun
   - like
 description: BEHIND THE MINDS OF PAPER LIGHTS
-datePublished: '2015-11-18T02:10:02.043Z'
-dateModified: '2015-11-18T02:09:37.852Z'
+datePublished: '2015-11-18T15:59:42.894Z'
+dateModified: '2015-11-18T03:33:45.246Z'
 author: []
 related:
   - score: 0.5918162465
@@ -36,15 +37,14 @@ related:
     thumbnail_width: 160
 app_links: []
 title: THE DIGITAL FASHION PLATFORM
+sourcePath: _posts/2015-11-18-the-digital-fashion-platform.md
+published: true
 authors: []
 publisher:
   name: DIFORM
   domain: www.thedigitalfashionplatform.com
   url: 'http://www.thedigitalfashionplatform.com'
   favicon: 'http://www.thedigitalfashionplatform.com/wp-content/uploads/2015/10/cropped-digital-fashion-platform-logo-png-192x192.png'
-sourcePath: _posts/2015-11-18-the-digital-fashion-platform.md
-published: true
-url: the-digital-fashion-platform/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

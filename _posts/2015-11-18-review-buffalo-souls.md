@@ -16,8 +16,8 @@ keywords:
   - lyrically
   - listen
 description: such a release adds a new layer of vulnerability and transparency to the artist
-datePublished: '2015-11-18T03:02:35.575Z'
-dateModified: '2015-11-18T03:02:26.077Z'
+datePublished: '2015-11-18T15:59:33.280Z'
+dateModified: '2015-11-18T03:25:18.055Z'
 author:
   - name: ejinthemirror
     url: 'https://mirrorsweare.wordpress.com/author/ejinthemirror/'
@@ -32,17 +32,17 @@ related:
     thumbnail_width: 1050
 app_links: []
 title: 'Review: Buffalo Souls'
+sourcePath: _posts/2015-11-18-review-buffalo-souls.md
+published: true
 authors: []
 publisher:
   name: "WE\\ARE\\MIRRORS"
   domain: mirrorsweare.wordpress.com
   url: 'http://mirrorsweare.wordpress.com'
   favicon: 'https://s2.wp.com/i/favicon.ico'
-sourcePath: _posts/2015-11-18-review-buffalo-souls.md
-published: true
 url: review-buffalo-souls/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Review: Buffalo Souls</h1><img src="https://mirrorsweare.files.wordpress.com/2015/04/picture0402150809_1.jpg?w=1000&amp;h=1000" /></article>
+<article style=""><h1>Review: Buffalo Souls</h1><p>Side projects can be a tricky business. When it comes to music, an artist's side project often comes nowhere close to the artistic quality than his original ventures; but it is often crucial for an artist to get some ideas off his chest. The artist who chooses to share this "artistic vomit" (as our reviewee...</p><img src="https://mirrorsweare.files.wordpress.com/2015/04/picture0402150809_1.jpg?w=1000&amp;h=1000" /></article>

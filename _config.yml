@@ -1,7 +1,7 @@
 name: PAPERLIGHTSMUSIC
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 1
+typography_spectrum: 0.6474
 title: PAPER LIGHTS MUSIC
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3f1a00'
     - '#685b36'
   brandStrength: 0
-  lightness: 0.25
-  saturation: 0
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
